@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Send Money",
+    "item": "https://paysend.com/gb"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "From United Kingdom",
+    "item": "https://paysend.com/gb/send-money""
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "To Austria",
+    "item": "https://paysend.com/gb/send-money/send-money-to-austria-eur"
+  }]
+}
+</script>
